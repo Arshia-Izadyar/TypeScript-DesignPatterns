@@ -2,8 +2,8 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true ,
-        "noUnusedParameters": true,
-        "noUnusedLocals": true,
+        "noUnusedParameters": false,
+        "noUnusedLocals": false,
         "forceConsistentCasingInFileNames": true,
         "strict": true,
         "types": [
